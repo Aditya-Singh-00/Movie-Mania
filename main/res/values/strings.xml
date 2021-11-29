@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie Mania</string>
+    <string name="see_all">See all</string>
+    <string name="error_message">Something went wrong</string>
+    <string name="search">Search</string>
+    <string name="overview">Overview</string>
+    <string name="download">Download</string>
+    <string name="screenshot">Screenshots</string>
+    <string name="similar">Similar</string>
+    <string name="trailer">Watch trailer</string>
+    <string name="cast">Cast</string>
+    <string name="query_blank">Enter search query</string>
+    <string name="search_result">Search results will show here</string>
+    <string name="download_quality">Download quality</string>
+    <string name="no_movies">No movies found</string>
+</resources>
